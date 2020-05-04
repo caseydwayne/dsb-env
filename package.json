@@ -1,0 +1,16 @@
+{
+  "name": "dsb-env",
+  "version": "1.0.0",
+  "description": "returns string {Node version} or boolean {false}",
+  "main": "index.js",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "dependencies": {
+    "dsb-root": "1.0.0",
+    "dsb-has-lite": "1.0.0"
+  },
+  "devDependencies": {
+    "dsb-debug-mini": "^1.0.0"
+  },
+  "license": "NONE",
+  "private": true
+}
